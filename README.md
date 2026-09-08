@@ -76,7 +76,7 @@ Contributions, suggestions, and feedback are welcome. If you discover any bugs, 
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project for educational, personal, and commercial purposes in accordance with the license terms..
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project for educational, personal, and commercial purposes in accordance with the license terms.
 
 Neha Negi
 GitHub: https://github.com/nehanegimail-stack
