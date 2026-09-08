@@ -1,7 +1,7 @@
 # Multiple Disease Prediction System using Machine Learning
 ![Project Screenshot](Screenshot%202026-09-08%20202440.png)
 
-This project provides a streamlit web application for predicting multiple diseases, including diabetes, Parkinson's disease, and heart disease, using machine learning algorithms. The prediction models are deployed using Streamlit, a Python library for building interactive web applications.
+This project is a Machine Learning-based healthcare application developed to predict the likelihood of multiple diseases, including Diabetes, Heart Disease, and Parkinson's Disease. The application is built using Python and Streamlit, providing an interactive and user-friendly web interface for disease prediction.
 
 ## Table of Contents
 
@@ -14,7 +14,9 @@ This project provides a streamlit web application for predicting multiple diseas
 
 ## Introduction
 
-The Multiple Disease Prediction project aims to create a user-friendly web application that allows users to input relevant medical information and receive predictions for different diseases. The machine learning models trained on disease-specific datasets enable accurate predictions for diabetes, Parkinson's disease, and heart disease.
+The Multiple Disease Prediction System helps users assess potential health risks by analyzing medical parameters and generating predictions through trained Machine Learning models. Users can enter relevant health information, and the system provides instant prediction results for different diseases.The project utilizes machine learning algorithms trained on disease-specific datasets to deliver accurate and efficient predictions. The web application is designed with simplicity and accessibility in mind, allowing users without technical expertise to easily interact with the system.
+
+This project demonstrates the practical application of Machine Learning in the healthcare domain and showcases skills in data preprocessing, model development, deployment, and web application development using Streamlit.
 
 ## Features
 
@@ -33,7 +35,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
+https://github.com/nehanegimail-stack/Multiple-Disease-Prediction-System/blob/main/Screenshot%202026-09-08%20202440.png
 ```
 
 2. Install the required dependencies by running:
@@ -70,8 +72,13 @@ Feel free to customize the web application's appearance, add more disease predic
 
 ## Contributing
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
+Contributions, suggestions, and feedback are welcome. If you discover any bugs, have ideas for new features, or would like to improve the project, feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to modify and use the code for both personal and commercial purposes.
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project for educational, personal, and commercial purposes in accordance with the license terms..
+
+Neha Negi
+GitHub: https://github.com/nehanegimail-stack
+
+LinkedIn: https://www.linkedin.com/in/neha-negi-b20300265/
